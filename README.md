@@ -10,7 +10,9 @@ const profile = {
  programmingSkills: {
     clientSoftware: ["HTML","CSS", "JavaScript", "SCSS", "React", "Bootstrap","Next"],
     serverSoftware: ["Node.js"]
-    programming_lang:["Javascript","Solidity","Python","Java","Cpp"]
+    programming_lang: ["Javascript","Solidity","Python","Java","Cpp"]
+    Tools & IDE: ["Hardhat","Truffle","Ganache","Remix","Git","Metamask"]
+    Blockchains & SDKs: ["Ethereum","Polygon","Alchemy","OpenZeppelin"]
         },
   languages: ["Hindi", "English","Marathi"],
   currentFocus: "Learning and implementing"
@@ -20,4 +22,5 @@ const profile = {
 📫 Contact me on:
 
 <div>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<tab><a href="https://twitter.com/SumithPrabhu1" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png" width="25" ></a>
-<a href="https://twitter.com/SumithPrabhu1" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Instagram_white.png" width="25"  margin-left="15"></a></div>
+<a href="https://www.linkedin.com/in/sumith-prabhu/" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png" width="25"  ></a>
+<a href="https://t.me/sumithprabhu" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Telegram_white.png" width="25" ></a></div>

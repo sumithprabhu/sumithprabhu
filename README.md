@@ -62,3 +62,26 @@
 ![Polygon](https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white)
 ![Alchemy](https://img.shields.io/badge/Alchemy-0E1D33?style=for-the-badge&logo=alchemy&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+
+<!-- ====== GITHUB STATS ====== -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumithprabhu&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumithprabhu&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithprabhu&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumithprabhu&theme=algolia&no-frame=true&column=7&margin-w=8" alt="trophies"/>
+</p>
+
+<!-- ====== SNAKE ====== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumithprabhu/sumithprabhu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumithprabhu/sumithprabhu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sumithprabhu/sumithprabhu/output/github-contribution-grid-snake.svg">
+</picture>

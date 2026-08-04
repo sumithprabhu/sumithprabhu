@@ -1,6 +1,6 @@
 <!-- ====== HEADER ====== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sumith+Prabhu+%F0%9F%91%8B;Full+Stack+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+build+scalable+web+applications+%E2%9A%A1;Frontend+%E2%80%A2+Backend+%E2%80%A2+AI%2FLLM+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sumith+Prabhu+%F0%9F%91%8B;Full+Stack+Engineer;I+build+scalable+web+applications;Frontend+%E2%80%A2+Backend+%E2%80%A2+AI%2FLLM" alt="Typing SVG" />
 </h1>
 
 <p align="center">

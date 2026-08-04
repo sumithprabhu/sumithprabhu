@@ -28,43 +28,37 @@
 
 **Frontend**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular&theme=dark" title="Angular" alt="Angular" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=redux&theme=dark" title="Redux" alt="Redux" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=rxjs&theme=dark" title="RxJS" alt="RxJS" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=sass&theme=dark" title="Sass" alt="Sass" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" width="48" height="48"/>
-</p>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Backend**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring Boot" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=django&theme=dark" title="Django" alt="Django" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" title="NestJS" alt="NestJS" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js" alt="Express.js" width="48" height="48"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **APIs, Data & Messaging**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" title="GraphQL" alt="GraphQL" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" alt="Redis" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" title="Elasticsearch" alt="Elasticsearch" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" title="Apache Kafka" alt="Apache Kafka" width="48" height="48"/>
-</p>
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **AI / ML**
 
@@ -74,17 +68,15 @@
 
 **DevOps, Tools & Testing**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" alt="AWS" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" title="Kubernetes" alt="Kubernetes" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" title="GitLab CI/CD" alt="GitLab CI/CD" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=cypress&theme=dark" title="Cypress" alt="Cypress" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=jest&theme=dark" title="Jest" alt="Jest" width="48" height="48"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 **Web3**
 

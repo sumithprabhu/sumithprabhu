@@ -108,9 +108,6 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/sumithprabhu/sumithprabhu/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- ====== QUOTE ====== -->
-<p align="center"><i>"Learning and implementing — one commit at a time."</i></p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 </p>

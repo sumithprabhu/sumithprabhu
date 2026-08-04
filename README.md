@@ -10,8 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=sumithprabhu&style=for-the-badge&color=6C63FF" alt="Profile views"/>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="230" alt="coding gif"/>
-
 <!-- ====== ABOUT ====== -->
 ## 🚀 About Me
 
@@ -21,9 +19,9 @@
 - 🗣️ &nbsp;Fluent in **Hindi, English & Marathi**
 - 💬 &nbsp;Let's talk **scalable architecture, clean APIs & AI driven apps**
 
-<br clear="right"/>
-
 <!-- ====== TECH STACK ====== -->
+<img align="right" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="230" alt="coding gif"/>
+
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -93,6 +91,8 @@
 ![Foundry](https://img.shields.io/badge/Foundry-2C2C2C?style=for-the-badge&logoColor=white)
 ![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+
+<br clear="right"/>
 
 <!-- ====== GITHUB STATS ====== -->
 ## 📊 GitHub Stats

@@ -67,12 +67,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumithprabhu&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumithprabhu&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8b949e" alt="streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumithprabhu&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=6C63FF&icon_color=6C63FF" alt="stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=sumithprabhu&hide_border=true&theme=dark&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9" alt="streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithprabhu&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="top langs"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithprabhu&layout=compact&hide_border=true&theme=tokyonight&title_color=6C63FF" alt="top langs"/>
 </p>
 
 <p align="center">

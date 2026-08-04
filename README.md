@@ -29,19 +29,41 @@
 **Frontend**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,redux,rxjs,ts,js,html,css,sass,nextjs&theme=dark&perline=10" alt="frontend"/>
+  <img src="https://skillicons.dev/icons?i=angular&theme=dark" title="Angular" alt="Angular" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=redux&theme=dark" title="Redux" alt="Redux" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=rxjs&theme=dark" title="RxJS" alt="RxJS" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=sass&theme=dark" title="Sass" alt="Sass" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js" width="48" height="48"/>
 </p>
 
 **Backend**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,py,django,fastapi,nestjs,express&theme=dark&perline=8" alt="backend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring Boot" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" title="Django" alt="Django" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" title="NestJS" alt="NestJS" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express.js" alt="Express.js" width="48" height="48"/>
 </p>
 
 **APIs, Data & Messaging**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,postgres,mongodb,mysql,redis,elasticsearch,kafka&theme=dark&perline=7" alt="apis and data"/>
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" title="GraphQL" alt="GraphQL" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" alt="MongoDB" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" alt="Redis" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" title="Elasticsearch" alt="Elasticsearch" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" title="Apache Kafka" alt="Apache Kafka" width="48" height="48"/>
 </p>
 
 **AI / ML**
@@ -53,7 +75,15 @@
 **DevOps, Tools & Testing**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,gitlab,githubactions,git,cypress,jest&theme=dark&perline=9" alt="devops and testing"/>
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS" alt="AWS" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" title="Kubernetes" alt="Kubernetes" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" title="GitLab CI/CD" alt="GitLab CI/CD" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=cypress&theme=dark" title="Cypress" alt="Cypress" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=jest&theme=dark" title="Jest" alt="Jest" width="48" height="48"/>
 </p>
 
 **Web3**

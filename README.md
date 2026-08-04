@@ -26,26 +26,41 @@
 <!-- ====== TECH STACK ====== -->
 ## 🛠️ Tech Stack
 
-**Languages, Frontend, Backend & Tools**
+**Frontend**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,solidity,py,java,cpp,html,css,sass,react,nextjs,bootstrap,nodejs,git&theme=dark&perline=13" alt="tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=angular,react,redux,rxjs,ts,js,html,css,sass,nextjs&theme=dark&perline=10" alt="frontend"/>
 </p>
 
-**Web3 Tools & IDEs**
+**Backend**
 
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix_IDE-2C2C2C?style=for-the-badge&logo=remix&logoColor=white)
-![Ganache](https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge&logo=ganache&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,py,django,fastapi,nestjs,express&theme=dark&perline=8" alt="backend"/>
+</p>
 
-**Blockchains & SDKs**
+**APIs, Data & Messaging**
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=graphql,postgres,mongodb,mysql,redis,elasticsearch,kafka&theme=dark&perline=7" alt="apis and data"/>
+</p>
+
+**AI / ML**
+
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**DevOps, Tools & Testing**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,gitlab,githubactions,git,cypress,jest&theme=dark&perline=9" alt="devops and testing"/>
+</p>
+
+**Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white)
-![Alchemy](https://img.shields.io/badge/Alchemy-0E1D33?style=for-the-badge&logo=alchemy&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white)
 
 <!-- ====== GITHUB STATS ====== -->
 ## 📊 GitHub Stats

@@ -1,6 +1,6 @@
 <!-- ====== HEADER ====== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sumith+Prabhu+%F0%9F%91%8B;Full-Stack+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+build+scalable+web+applications+%E2%9A%A1;Frontend+%E2%80%A2+Backend+%E2%80%A2+AI%2FLLM+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sumith+Prabhu+%F0%9F%91%8B;Full+Stack+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I+build+scalable+web+applications+%E2%9A%A1;Frontend+%E2%80%A2+Backend+%E2%80%A2+AI%2FLLM+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,11 +15,11 @@
 <!-- ====== ABOUT ====== -->
 ## 🚀 About Me
 
-- 🧑‍💻 &nbsp;**Full-stack engineer** who designs and ships **scalable, production-ready applications**
-- ⚡ &nbsp;Comfortable end-to-end — **React & Angular** on the front, **Node.js, Java & Python** on the back
-- 🤖 &nbsp;Building with **AI / LLMs** — RAG, LangGraph & MCP-powered products
+- 🧑‍💻 &nbsp;**Full stack engineer** who designs and ships **scalable, production grade applications**
+- ⚡ &nbsp;Comfortable across the whole stack: **React & Angular** in front, **Node.js, Java & Python** behind
+- 🤖 &nbsp;Building with **AI / LLMs** using RAG, LangGraph & MCP servers
 - 🗣️ &nbsp;Fluent in **Hindi, English & Marathi**
-- 💬 &nbsp;Let's talk **scalable architecture, clean APIs & AI-driven apps**
+- 💬 &nbsp;Let's talk **scalable architecture, clean APIs & AI driven apps**
 
 <br clear="right"/>
 
